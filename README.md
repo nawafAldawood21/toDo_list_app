@@ -1,16 +1,18 @@
-# todo
+# ToDo List ✓
 
-A new Flutter project.
+## What I will create
 
-## Getting Started
+A todolist app to keep track of all the users tasks.
 
-This project is a starting point for a Flutter application.
+## What you will learn
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Understand what is state and why we need to manage it.
+- Understand the difference between ephemeral (local) state and app state.
+- See the problems with simply relying on setState().
+- Learn about the concept of Prop Drilling.
+- Examine various popular ways of managing app state for Flutter projects.
+- Learn about the List Builder.
+- Use the Flutter BottomSheet Widget.
+- Learn to lift state up to be able to access it from children widgets.
+- Learn about design patterns and why they are useful.
+- Understand how the Provider package works and use it to manage app state.
